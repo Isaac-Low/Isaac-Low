@@ -3,14 +3,14 @@ Grade 8 - TOM BAINES JH
 🇨🇦 / 🇻🇳
 13 y/o
 
-//ROBOTICS: 
+//ROBOTICS:   
 2088X Western Mechatronics
 
-//PROJECTS: 
+//PROJECTS:   
 Small Unity 3D Games(c#){
  Shadow shift; 
  Untitled castle builder();
 }
 
-//LANGUAGES: 
+//LANGUAGES:   
 string[] languages = {"C#", "C++", "JavaScriptT(ES6)", "Python"};
